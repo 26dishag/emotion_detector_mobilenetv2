@@ -37,6 +37,7 @@ st.title("Emotion Detector")
 
 #subheader
 st.subheader("This is a classifier.")
+st.subheader("Try it out!")
 #write elements 
 st.write("**This web can be used to detect emotions. AI was trained in Navigator with AI Club datasets.**")
 
